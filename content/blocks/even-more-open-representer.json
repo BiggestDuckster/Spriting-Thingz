@@ -1,0 +1,14 @@
+{
+"type": "Sorter"
+"name": "Even More Open Representer",
+"description": "[red]you gotta be kidding me."
+"health": 30,
+"itemCapacity": 10,
+"speed": 10,
+"size": 1,
+"category": "distribution",
+"requirements": [
+"copper/3"
+]
+"research": null,
+}

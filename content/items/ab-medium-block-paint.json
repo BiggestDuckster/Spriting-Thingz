@@ -1,0 +1,7 @@
+{
+	"name": "Medium Block Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "989AA4", // Hex color code for visualization
+    "description": "Paint for the medium colors of [yellow]block."
+}

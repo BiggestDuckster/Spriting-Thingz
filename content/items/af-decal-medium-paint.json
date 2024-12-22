@@ -1,0 +1,7 @@
+{
+	"name": "Medium Decal Block Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "EA8878", // Hex color code for visualization
+    "description": "Decal paint for the medium colors of [yellow]blocks and turrets."
+}

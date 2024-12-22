@@ -1,0 +1,7 @@
+{
+	"name": "Light Block Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "b0bac0", // Hex color code for visualization
+    "description": "Paint for the light colors of [yellow]block."
+}

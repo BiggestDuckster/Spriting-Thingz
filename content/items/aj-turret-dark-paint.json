@@ -1,0 +1,7 @@
+{
+	"name": "Turret Dark Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "4D4E58", // Hex color code for visualization
+    "description": "Paint for the dark colors of [yellow]turret."
+}

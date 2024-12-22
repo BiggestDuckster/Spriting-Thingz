@@ -1,0 +1,7 @@
+{
+	"name": "Light Decal Block Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "FEB380", // Hex color code for visualization
+    "description": "Decal paint for the light colors of [yellow]blocks and turrets."
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Dark Decal Block Paint",
+    "hardness": 1,
+    "cost": 1,
+    "color": "BC5452", // Hex color code for visualization
+    "description": "Decal paint for the dark colors of [yellow]blocks and turrets."
+}

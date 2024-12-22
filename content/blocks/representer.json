@@ -1,0 +1,14 @@
+{
+"type": "Sorter"
+"name": "Representer",
+"description": "Basically a sorter but more open."
+"health": 30,
+"itemCapacity": 10,
+"speed": 10,
+"size": 1,
+"category": "distribution",
+"requirements": [
+"copper/3"
+]
+"research": null,
+}
